@@ -26,20 +26,20 @@ The feature selection techniques used are:
 # CODING AND OUTPUT:
        # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
        \\
-       ![Screenshot 2024-11-22 132910](https://github.com/user-attachments/assets/20e308e9-419b-42d2-8342-36c0854130fd)
-       ![Screenshot 2024-11-22 133000](https://github.com/user-attachments/assets/ec8904af-219d-4819-8858-bd17147d148e)
-       ![Screenshot 2024-11-22 133024](https://github.com/user-attachments/assets/e417ce5d-ce88-45cc-9597-0166aca63f2b)
-       ![Screenshot 2024-11-22 133048](https://github.com/user-attachments/assets/4ebecdda-b390-424c-a623-e9794e89bd83)
-       ![Screenshot 2024-11-22 133121](https://github.com/user-attachments/assets/532ed31a-0b15-4b04-87c0-047fe6cd466d)
-       ![Screenshot 2024-11-22 133235](https://github.com/user-attachments/assets/4b5792d1-073b-48b2-8eb1-16c28e0d3c49)
-       ![Screenshot 2024-11-22 133319](https://github.com/user-attachments/assets/d4176e0c-3000-4ce1-be89-fa433d4303c6)
-       ![Screenshot 2024-11-22 133340](https://github.com/user-attachments/assets/d8271b76-5201-4564-95fe-2700e3382ddb)
-       ![Screenshot 2024-11-22 133425](https://github.com/user-attachments/assets/a74ae44d-ea47-4755-a3eb-ad13c3d4c782)
-       ![Screenshot 2024-11-22 133448](https://github.com/user-attachments/assets/bffc8ada-5f42-40f6-8ae9-d3d7af368902)
-       ![Screenshot 2024-11-22 133509](https://github.com/user-attachments/assets/14684f73-9b7d-4edc-b59b-950e5d35a133)
-       ![Screenshot 2024-11-22 133534](https://github.com/user-attachments/assets/9e471525-4437-4ec5-ae13-7c3e25bdf016)
-       ![Screenshot 2024-11-22 133556](https://github.com/user-attachments/assets/f43620c2-be61-4162-bf3a-78b2cdd43398)
-       ![Screenshot 2024-11-22 133630](https://github.com/user-attachments/assets/b1043406-90f0-4667-aa18-07660641cd1d)
+![Screenshot 2024-11-22 132910](https://github.com/user-attachments/assets/20e308e9-419b-42d2-8342-36c0854130fd)
+![Screenshot 2024-11-22 133000](https://github.com/user-attachments/assets/ec8904af-219d-4819-8858-bd17147d148e)
+![Screenshot 2024-11-22 133024](https://github.com/user-attachments/assets/e417ce5d-ce88-45cc-9597-0166aca63f2b)
+![Screenshot 2024-11-22 133048](https://github.com/user-attachments/assets/4ebecdda-b390-424c-a623-e9794e89bd83)
+![Screenshot 2024-11-22 133121](https://github.com/user-attachments/assets/532ed31a-0b15-4b04-87c0-047fe6cd466d)
+![Screenshot 2024-11-22 133235](https://github.com/user-attachments/assets/4b5792d1-073b-48b2-8eb1-16c28e0d3c49)
+![Screenshot 2024-11-22 133319](https://github.com/user-attachments/assets/d4176e0c-3000-4ce1-be89-fa433d4303c6)
+![Screenshot 2024-11-22 133340](https://github.com/user-attachments/assets/d8271b76-5201-4564-95fe-2700e3382ddb)
+![Screenshot 2024-11-22 133425](https://github.com/user-attachments/assets/a74ae44d-ea47-4755-a3eb-ad13c3d4c782)
+![Screenshot 2024-11-22 133448](https://github.com/user-attachments/assets/bffc8ada-5f42-40f6-8ae9-d3d7af368902)
+![Screenshot 2024-11-22 133509](https://github.com/user-attachments/assets/14684f73-9b7d-4edc-b59b-950e5d35a133)
+![Screenshot 2024-11-22 133534](https://github.com/user-attachments/assets/9e471525-4437-4ec5-ae13-7c3e25bdf016)
+![Screenshot 2024-11-22 133556](https://github.com/user-attachments/assets/f43620c2-be61-4162-bf3a-78b2cdd43398)
+![Screenshot 2024-11-22 133630](https://github.com/user-attachments/assets/b1043406-90f0-4667-aa18-07660641cd1d)
 
 
 
